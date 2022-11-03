@@ -14,17 +14,17 @@
   <!-- EN: ancient crate -->
   <AncientCrate.label>caja antigua</AncientCrate.label>
   <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
-  <AncientCrate.description>Una caja antigua y rota. Los objetos de valor que contenía se han degradado hasta volverse inútiles.</AncientCrate.description>
+  <AncientCrate.description>Una caja antigua y rota. Los objetos de valor que contenía se han deteriorado hasta quedar inservibles.</AncientCrate.description>
   
   <!-- EN: ancient display bank -->
   <AncientDisplayBank.label>monitores antiguos</AncientDisplayBank.label>
   <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientDisplayBank.description>Una antigua interfaz de ordenador. Faltan partes valiosas y todo lo demás está degradado hasta la inutilidad.</AncientDisplayBank.description>
+  <AncientDisplayBank.description>Una antigua interfaz de ordenador. Faltan partes valiosas y todo lo demás está deteriorado hasta quedar inservible.</AncientDisplayBank.description>
   
   <!-- EN: ancient equipment blocks -->
   <AncientEquipmentBlocks.label>bloques de equipamiento antiguos</AncientEquipmentBlocks.label>
   <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientEquipmentBlocks.description>Una colección de bloques de equipo antiguos de funcionalidad desconocida. Faltan partes valiosas y todo lo demás está degradado hasta la inutilidad.</AncientEquipmentBlocks.description>
+  <AncientEquipmentBlocks.description>Una colección de bloques de equipo antiguos de funcionalidad desconocida. Faltan partes valiosas y todo lo demás está deteriorado hasta quedar inservible.</AncientEquipmentBlocks.description>
   
   <!-- EN: ancient generator -->
   <AncientGenerator.label>generador antiguo</AncientGenerator.label>
@@ -39,7 +39,7 @@
   <!-- EN: ancient machine -->
   <AncientMachine.label>máquina antigua</AncientMachine.label>
   <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientMachine.description>Una gran caja de máquinas antigua llena de maquinaria desconocida. Faltan piezas valiosas y todo lo demás está deteriorado hasta la inutilidad.</AncientMachine.description>
+  <AncientMachine.description>Una gran caja de máquinas antigua llena de maquinaria desconocida. Faltan piezas valiosas y todo lo demás está deteriorado hasta quedar inservible.</AncientMachine.description>
   
   <!-- EN: ancient military crate -->
   <AncientMilitaryCrate.label>caja militar antigua</AncientMilitaryCrate.label>
@@ -59,11 +59,11 @@
   <!-- EN: ancient storage cylinder -->
   <AncientStorageCylinder.label>cilindro de almacenaje antiguo</AncientStorageCylinder.label>
   <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientStorageCylinder.description>Un dispositivo antiguo que parece haber almacenado alguna vez algún tipo de fluido. Faltan partes valiosas y todo lo demás está deteriorado hasta la inutilidad.</AncientStorageCylinder.description>
+  <AncientStorageCylinder.description>Un dispositivo antiguo que parece haber almacenado alguna vez algún tipo de fluido. Faltan partes valiosas y todo lo demás está deteriorado hasta quedar inservible.</AncientStorageCylinder.description>
   
   <!-- EN: ancient system rack -->
   <AncientSystemRack.label>grupo de sistemas antiguos</AncientSystemRack.label>
   <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientSystemRack.description>Una antigua estantería repleta de dispositivos no identificables. Faltan partes valiosas y todo lo demás está deteriorado hasta la inutilidad.</AncientSystemRack.description>
+  <AncientSystemRack.description>Una antigua estantería repleta de dispositivos no identificables. Faltan partes valiosas y todo lo demás está deteriorado hasta quedar inservible.</AncientSystemRack.description>
   
 </LanguageData>

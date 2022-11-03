@@ -4,22 +4,22 @@
   <!-- EN: grand altar -->
   <Altar_Grand.label>gran altar</Altar_Grand.label>
   <!-- EN: A grand platform that plays a role in ideoligious rituals. -->
-  <Altar_Grand.description>TODO</Altar_Grand.description>
+  <Altar_Grand.description>Una plataforma grandiosa que desempeña un papel en los rituales ideológicos.</Altar_Grand.description>
   
   <!-- EN: large altar -->
   <Altar_Large.label>altar grande</Altar_Large.label>
   <!-- EN: A large platform that plays a role in ideoligious rituals. -->
-  <Altar_Large.description>TODO</Altar_Large.description>
+  <Altar_Large.description>Una plataforma de gran tamaño que desempeña un papel en los rituales ideológicos.</Altar_Large.description>
   
   <!-- EN: medium altar -->
   <Altar_Medium.label>altar mediano</Altar_Medium.label>
   <!-- EN: A medium platform that plays a role in ideoligious rituals. -->
-  <Altar_Medium.description>TODO</Altar_Medium.description>
+  <Altar_Medium.description>Una plataforma de tamaño mediano que desempeña un papel en los rituales ideológicos.</Altar_Medium.description>
   
   <!-- EN: small altar -->
   <Altar_Small.label>altar pequeño</Altar_Small.label>
   <!-- EN: A small platform that plays a role in ideoligious rituals. -->
-  <Altar_Small.description>TODO</Altar_Small.description>
+  <Altar_Small.description>Una pequeña plataforma que desempeña un papel en los rituales ideológicos.</Altar_Small.description>
   
   <!-- EN: biosculpter pod -->
   <BiosculpterPod.label>cápsula de bioescultura</BiosculpterPod.label>
@@ -45,68 +45,68 @@
   <!-- EN: burnbong -->
   <Burnbong.label>TODO</Burnbong.label>
   <!-- EN: A wood structure packed with smokeleaf. It can be ignited during a ritual and produce a huge amount of smokeleaf smoke for a few hours, after which it is destroyed. -->
-  <Burnbong.description>TODO</Burnbong.description>
+  <Burnbong.description>Una estructura de madera cargada de hoja de fumar. Puede encenderse durante un ritual y producir una gran cantidad de humo de hoja de fumar durante unas horas, tras lo cual se destruye. </Burnbong.description>
   
   <!-- EN: cannibal platter -->
   <CannibalPlatter.label>plato caníbal</CannibalPlatter.label>
   <!-- EN: An area of floor covered with pre-chopped and arranged human meat ready for a cannibal feast. -->
-  <CannibalPlatter.description>TODO</CannibalPlatter.description>
+  <CannibalPlatter.description>Una zona del suelo cubierta de carne humana previamente troceada y dispuesta para un festín caníbal.</CannibalPlatter.description>
   
   <!-- EN: christmas tree -->
   <ChristmasTree.label>árbol de Navidad</ChristmasTree.label>
   <!-- EN: A celebratory tree decorated with ornaments and lights traditionally made as part of Christmas celebrations. -->
-  <ChristmasTree.description>TODO</ChristmasTree.description>
+  <ChristmasTree.description>Un árbol festivo decorado con adornos y luces que tradicionalmente se hace como parte de las celebraciones navideñas. </ChristmasTree.description>
   
   <!-- EN: darktorch -->
   <Darktorch.label>antorcha oscura</Darktorch.label>
   <!-- EN: A specially-treated wooden torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with wood. Produces a small amount of heat. -->
-  <Darktorch.description>TODO</Darktorch.description>
+  <Darktorch.description>Una antorcha de madera especialmente tratada que produce una luz tenue en una gran superficie. Las personas que prefieren la luz oscura trabajan mejor con esta fuente de luz. Se puede recargar automáticamente con madera. Produce una pequeña cantidad de calor.</Darktorch.description>
   
   <!-- EN: fungus darktorch -->
   <DarktorchFungus.label>antorcha oscura fúngica</DarktorchFungus.label>
   <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with raw fungus. Produces a small amount of heat. -->
-  <DarktorchFungus.description>TODO</DarktorchFungus.description>
+  <DarktorchFungus.description>Una antorcha de hongos especialmente tratada que produce una luz tenue en una gran superficie. Las personas que prefieren la luz oscura trabajan mejor con esta fuente de luz. Se puede recargar automáticamente con hongos crudos. Produce una pequeña cantidad de calor.</DarktorchFungus.description>
   
   <!-- EN: effigy -->
   <Effigy.label>efigie</Effigy.label>
   <!-- EN: A rough wooden frame in the shape of a human, ready to be burned as part of a ritual. -->
-  <Effigy.description>TODO</Effigy.description>
+  <Effigy.description>Un armazón de madera en bruto con forma humana, listo para ser quemado como parte de un ritual.</Effigy.description>
   
   <!-- EN: ideogram -->
   <Ideogram.label>ideograma</Ideogram.label>
   <!-- EN: A large image drawn on the ground and reinforced with metal edges. It is used as a focus for rituals. -->
-  <Ideogram.description>TODO</Ideogram.description>
+  <Ideogram.description>Una gran imagen dibujada en el suelo y reforzada con bordes metálicos. Se utiliza como foco para los rituales.</Ideogram.description>
   
   <!-- EN: incense shrine -->
   <IncenseShrine.label>santuario de incienso</IncenseShrine.label>
   <!-- EN: A collection of packed incense containers. It can be ignited and produce a powerful incense effect as a focus for rituals. It is destroyed after it burns down. -->
-  <IncenseShrine.description>TODO</IncenseShrine.description>
+  <IncenseShrine.description>Una colección de recipientes de incienso envasados. Puede encenderse y producir un potente efecto de incienso como foco para los rituales. Se destruye después de quemarse.</IncenseShrine.description>
   
   <!-- EN: neural supercharger -->
   <NeuralSupercharger.label>supercargador neuronal</NeuralSupercharger.label>
   <!-- EN: A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity. -->
-  <NeuralSupercharger.description>TODO</NeuralSupercharger.description>
+  <NeuralSupercharger.description>A neuron-sensitizing device that can deliver one neural supercharge each day. A person with a neural supercharge will think and learn faster, but will also consume more food. The effect wears off in one day. Neural superchargers consume a lot of electricity.</NeuralSupercharger.description>
   <!-- EN: Get neural supercharge -->
-  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>TODO</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
+  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>Obtener una supercarga neuronal</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
   
   <!-- EN: pyre -->
   <Pyre.label>pira</Pyre.label>
   <!-- EN: A wooden tower for ritual burning. -->
-  <Pyre.description>TODO</Pyre.description>
+  <Pyre.description>Una torre de madera para la quema ritual.</Pyre.description>
   
   <!-- EN: ritual spot -->
   <RitualSpot.label>sitio de rituales</RitualSpot.label>
   <!-- EN: A spot for carrying out certain kinds of rituals. -->
-  <RitualSpot.description>TODO</RitualSpot.description>
+  <RitualSpot.description>Un lugar para llevar a cabo ciertos tipos de rituales.</RitualSpot.description>
   
   <!-- EN: sacrificial flag -->
   <SacrificialFlag.label>bandera sacrificada</SacrificialFlag.label>
   <!-- EN: A flag representing enemies, ready to be burned as part of a ritual. -->
-  <SacrificialFlag.description>TODO</SacrificialFlag.description>
+  <SacrificialFlag.description>Una bandera que representa a los enemigos, lista para ser quemada como parte de un ritual.</SacrificialFlag.description>
   
   <!-- EN: sleep accelerator -->
   <SleepAccelerator.label>acelerador del sueño</SleepAccelerator.label>
   <!-- EN: A bedside device that accelerates the sleeper's circadian rhythm. This speeds up sleep, but consumes a lot of electricity and also causes increased hunger. It must be placed directly adjacent to and facing the head of the bed. Placing more than one sleep accelerator near the same bed has no effect. -->
-  <SleepAccelerator.description>TODO</SleepAccelerator.description>
+  <SleepAccelerator.description>Un dispositivo para la cama que acelera el ritmo circadiano del durmiente. Esto acelera el sueño, pero consume mucha electricidad y también provoca un aumento del hambre. Debe colocarse directamente junto a la cabecera de la cama y orientado hacia ella. Colocar más de un acelerador del sueño cerca de la misma cama no tiene ningún efecto.</SleepAccelerator.description>
   
 </LanguageData>
